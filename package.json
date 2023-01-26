@@ -1,0 +1,27 @@
+{
+  "name": "express-shopping-list-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naotakahashi93/Express-Shopping-List.git"
+  },
+  "author": "Nao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naotakahashi93/Express-Shopping-List/issues"
+  },
+  "homepage": "https://github.com/naotakahashi93/Express-Shopping-List#readme",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  }
+}
